@@ -1,0 +1,25 @@
+
+/* ============= PAGE ACCUEIL ================= */
+
+    /* Titres des films en h4, modification en inline-block pour que les
+     labels à côté apparaissent à droite et non en dessous */
+        #filmsaffiches > div > div.panel-heading > span > h4,
+        #filmsattendus > div > div.panel-heading > span > h4
+        {
+            display: inline-block;
+            color: #ff4e90;
+        }
+
+#jq-datatables-example > tbody > tr > td > a > img {
+    max-height: 70px;
+}
+
+.reduce{
+    max-width: 300px;
+    word-break: break-all;
+}
+
+/*Background pour la partie de connexion */
+.page-signin {
+background:url(demo/bg_login.jpg)!important;
+}
