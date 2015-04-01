@@ -65,10 +65,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'applicingmromain.mysql.db',
-	'username' => 'applicingmromain',
-	'password' => 'Qdecrpxwfu69',
-	'database' => 'applicingmromain',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
+	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
