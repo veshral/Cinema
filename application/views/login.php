@@ -44,10 +44,10 @@
                 Simple. Flexible. Powerful.
             </div> <!-- / .slogan -->
             <ul>
-                <li><i class="fa fa-sitemap signin-icon"></i> Flexible modular structure</li>
-                <li><i class="fa fa-file-text-o signin-icon"></i> LESS &amp; SCSS source files</li>
-                <li><i class="fa fa-outdent signin-icon"></i> RTL direction support</li>
-                <li><i class="fa fa-heart signin-icon"></i> Crafted with love</li>
+                <li><i class="fa fa-sitemap signin-icon"></i>- Les acteurs -</li>
+                <li><i class="fa fa-file-text-o signin-icon"></i>- Les films -</li>
+                <li><i class="fa fa-outdent signin-icon"></i>-Les réalisateurs -</li>
+                <li><i class="fa fa-heart signin-icon"></i>- les seances -</li>
             </ul> <!-- / Info list -->
         </div>
         <!-- / Left side -->

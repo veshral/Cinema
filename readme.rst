@@ -7,12 +7,12 @@ développé sous Boostrap Twitter avec le framework MVC Codeigniter.
 
 
 Back-Office:
-http://45.55.153.47/codeigniter
+http://www.appli-cinema.fr/
 Login: demonstration
 Mdp: Troiswa_2015
 
 Front-Office:
-http://45.55.153.47/codeigniter/index.php/frontend
+http://www.appli-cinema.fr/index.php/frontend
 
 
 
@@ -52,8 +52,7 @@ Configurer le fichier application/config/autoload.php
 Author
 ###################
 
-Roux Romain
-
+Roux Romain & 3wa Lyon
 
 
 ###################
